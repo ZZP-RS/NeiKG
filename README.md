@@ -1,6 +1,6 @@
 
 ## Introduction
-This code is for the paper "NeiKG: Knowledge Graph-driven Neighbor Selection and Aggregation for Long-tail Recommendation" submitted to AAAI2025.
+This code is for the paper "NeiKG: Knowledge Graph-driven Neighbor Selection and Aggregation for Long-tail Recommendation" submitted to IJCAI2025.
 
 ## Environment Requirement
 ```
